@@ -22,6 +22,10 @@ const tasks: TaskType[] = [{
     description: 'Ensure all doors are locked to prevent unauthorized access.',
     risk: 'HIGH',
 }, {
+    title: 'Oven off',
+    description: 'Make sure the oven is turned off to prevent fire hazards.',
+    risk: 'HIGH',
+}, {
     title: 'Car locked',
     description: 'Make sure your car is locked and windows are closed.',
     risk: 'HIGH',
